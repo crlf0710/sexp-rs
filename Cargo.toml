@@ -1,8 +1,11 @@
 [package]
-name = "sexp"
+name = "sexpr"
+description = "A minimal S-Expression library for Rust."
 version = "0.1.0"
+license = "MIT"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
+repository = "https://github.com/crlf0710/sexpr-rs"
 
 [dependencies]
-gc = "*"
-gc_derive = "*"
+gc = "0.2"
+gc_derive = "0.2"
