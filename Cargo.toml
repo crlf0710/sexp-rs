@@ -1,7 +1,7 @@
 [package]
 name = "sexpr"
 description = "A minimal S-Expression library for Rust."
-version = "0.1.0"
+version = "0.1.1-pre"
 license = "MIT"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
 repository = "https://github.com/crlf0710/sexpr-rs"
